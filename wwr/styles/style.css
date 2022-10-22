@@ -10,13 +10,7 @@
     margin: 0 auto;
 }
 
-nav a {
-    text-align: center;
-    color: aliceblue;
-    text-decoration: none;
-    font-family: "Source+Sans+Pro", Helvetica, sans-serif;
-    padding: 35px;
-}
+
 
 #hero-msg h1,
 #hero-msg h4 {
@@ -57,11 +51,6 @@ header {
     background-color: #354f52;
     display: grid;
     grid-template-columns: 150px auto;
-}
-
-nav a:hover {
-    background-color: #cad2c5;
-    color: #2f3e46;
 }
 
 .book,
