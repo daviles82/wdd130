@@ -96,7 +96,7 @@ h1 {
 
 .grooming-right {
     width: 100%;
-    grid-column: 10/12;
+    grid-column: 9/12;
     grid-row: 2/4;
     z-index: 1;
 }
@@ -112,7 +112,7 @@ h1 {
     width: 100%;
     grid-column: 5/10;
     grid-row: 3/7;
-    z-index: 1;
+    z-index: 2;
 }
 
 .grooming {
@@ -124,8 +124,8 @@ h1 {
 
 .matted-before {
     width: 100%;
-    grid-column: 2/4;
-    grid-row: 10/12;
+    grid-column: 2/5;
+    grid-row: 9/12;
     z-index: 2;
 }
 
@@ -138,7 +138,7 @@ h1 {
 
 .matted-after {
     width: 100%;
-    grid-column: 9/12;
+    grid-column: 8/12;
     grid-row: 8/11;
     z-index: 1;
 }
@@ -152,8 +152,8 @@ h1 {
 
 .skin-n-coat {
     width: 100%;
-    grid-column: 3/10;
-    grid-row: 8/12;
+    grid-column: 4/9;
+    grid-row: 8/13;
     z-index: 2;
 }
 
@@ -167,7 +167,7 @@ h1 {
 .ingrown {
     width: 100%;
     grid-column: 2/6;
-    grid-row: 15/19;
+    grid-row: 15/18;
     z-index: 1;
 }
 
@@ -180,9 +180,9 @@ h1 {
 
 .ingrown2 {
     width: 100%;
-    grid-column: 10/12;
+    grid-column: 9/12;
     grid-row: 14/16;
-    z-index: 2;
+    z-index: 1;
 }
 
 .clean-teeth {
@@ -195,9 +195,9 @@ h1 {
 
 .nails-n-paws {
     width: 100%;
-    grid-column: 5/10;
-    grid-row: 14/20;
-    z-index: 1;
+    grid-column: 5/9;
+    grid-row: 14/18;
+    z-index: 2;
 }
 
 #intro-background {
